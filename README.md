@@ -6,7 +6,8 @@ Aplicação de lista de tarefas desenvolvida com Laravel 13 e PHP 8.4, com funci
 
 ## 🖥️ Demonstração
 
-![Listagem de tarefas](https://via.placeholder.com/900x400?text=To-Do+List+Preview)
+<img width="1914" height="866" alt="image" src="https://github.com/user-attachments/assets/ffb279c2-b083-451d-8c4a-44412ecc561f" />
+
 
 ---
 
